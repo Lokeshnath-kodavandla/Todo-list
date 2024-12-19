@@ -1,0 +1,9 @@
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#button-height-width-setter {
+  width: 70px;
+  height: 35px;
+}
